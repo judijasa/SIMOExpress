@@ -20,5 +20,5 @@
 # MySQL
 SERVER="127.0.0.1"
 USER="joe"
-PASSWORD="joe_user_password"
-DATABASE="database_name"
+PASSWORD="joe-password"
+DATABASE="mydatabase"
