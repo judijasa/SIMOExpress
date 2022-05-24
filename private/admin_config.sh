@@ -40,7 +40,7 @@ SITE="https://simo.cnsc.gov.co/#ofertaEmpleo"
 SERVER="127.0.0.1"
 USER="root"
 PASSWORD="root_user_password"
-DATABASE="database_name"
+DATABASE="mydatabase"
 
 # PHPMailer
 SMTP_PASS="xxxx xxxx xxxx xxxx"
