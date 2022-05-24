@@ -39,7 +39,7 @@ SITE="https://simo.cnsc.gov.co/#ofertaEmpleo"
 # MySQL
 SERVER="127.0.0.1"
 USER="root"
-PASSWORD="root_user_password"
+PASSWORD="root-password"
 DATABASE="mydatabase"
 
 # PHPMailer
