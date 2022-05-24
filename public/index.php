@@ -15,7 +15,7 @@ Author: judijasa <ciudadania.ab@gmail.com>
     <title>SimoEx</title>
     <meta name="viewport" charset="utf-8" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" type="text/css" href="CSS/mystyle.css">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
 
     <!-- Bootstrap -->
     <!-- <link rel="stylesheet"
